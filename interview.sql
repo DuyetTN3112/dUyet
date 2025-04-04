@@ -58,9 +58,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `gpa`, `createdAt`, `updatedAt`) VALUES
-(1, 'Doe', 'example@example.com', 3.4, '2025-04-04 04:32:52', '2025-04-04 04:32:52'),
-(2, 'Doe', 'example@example.com', 3.1, '2025-04-04 04:32:52', '2025-04-04 04:32:52'),
-(3, 'Doe', 'example@example.com', 2.8, '2025-04-04 04:32:52', '2025-04-04 04:32:52');
+(1, 'Doe', 'doe1@gmail.com', 3.4, '2025-04-04 04:32:52', '2025-04-04 04:32:52'),
+(2, 'Doe', 'deoe2@gmail.com', 3.1, '2025-04-04 04:32:52', '2025-04-04 04:32:52'),
+(3, 'Doe', 'doa30@gmail.com', 2.8, '2025-04-04 04:32:52', '2025-04-04 04:32:52');
 
 --
 -- Chỉ mục cho các bảng đã đổ
